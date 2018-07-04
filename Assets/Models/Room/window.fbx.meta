@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 6bf55866396e38644baad92aa18f07ca
+timeCreated: 1529178062
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: lanterns
+    100002: pasted__pasted__windowbarRight
+    100004: pasted__windowbarCenter
+    100006: pasted__windowbarCenter1
+    100008: pasted__windowbarCenter2
+    100010: pasted__windowbarCenter3
+    100012: pasted__windowbarRight
+    100014: pasted__windowbarVertical
+    100016: pasted__windowbarVertical1
+    100018: pasted__windowbarVertical2
+    100020: pasted__windowbarVertical3
+    100022: pasted__windowbarVertical4
+    100024: pasted__windowbarVertical5
+    100026: rope
+    100028: //RootNode
+    100030: windowbarCenter
+    100032: windowbarLeft
+    100034: windowbarRight
+    100036: windowRaster
+    400000: lanterns
+    400002: pasted__pasted__windowbarRight
+    400004: pasted__windowbarCenter
+    400006: pasted__windowbarCenter1
+    400008: pasted__windowbarCenter2
+    400010: pasted__windowbarCenter3
+    400012: pasted__windowbarRight
+    400014: pasted__windowbarVertical
+    400016: pasted__windowbarVertical1
+    400018: pasted__windowbarVertical2
+    400020: pasted__windowbarVertical3
+    400022: pasted__windowbarVertical4
+    400024: pasted__windowbarVertical5
+    400026: rope
+    400028: //RootNode
+    400030: windowbarCenter
+    400032: windowbarLeft
+    400034: windowbarRight
+    400036: windowRaster
+    2100000: lambert1
+    2300000: pasted__pasted__windowbarRight
+    2300002: pasted__windowbarCenter
+    2300004: pasted__windowbarCenter1
+    2300006: pasted__windowbarCenter2
+    2300008: pasted__windowbarCenter3
+    2300010: pasted__windowbarRight
+    2300012: pasted__windowbarVertical
+    2300014: pasted__windowbarVertical1
+    2300016: pasted__windowbarVertical2
+    2300018: pasted__windowbarVertical3
+    2300020: pasted__windowbarVertical4
+    2300022: pasted__windowbarVertical5
+    2300024: rope
+    2300026: windowbarCenter
+    2300028: windowbarLeft
+    2300030: windowbarRight
+    3300000: pasted__pasted__windowbarRight
+    3300002: pasted__windowbarCenter
+    3300004: pasted__windowbarCenter1
+    3300006: pasted__windowbarCenter2
+    3300008: pasted__windowbarCenter3
+    3300010: pasted__windowbarRight
+    3300012: pasted__windowbarVertical
+    3300014: pasted__windowbarVertical1
+    3300016: pasted__windowbarVertical2
+    3300018: pasted__windowbarVertical3
+    3300020: pasted__windowbarVertical4
+    3300022: pasted__windowbarVertical5
+    3300024: rope
+    3300026: windowbarCenter
+    3300028: windowbarLeft
+    3300030: windowbarRight
+    4300000: windowbarLeft
+    4300002: windowbarRight
+    4300004: windowbarCenter
+    4300006: pasted__windowbarCenter
+    4300008: pasted__windowbarCenter1
+    4300010: pasted__windowbarCenter2
+    4300012: pasted__windowbarCenter3
+    4300014: pasted__windowbarVertical
+    4300016: pasted__windowbarVertical1
+    4300018: pasted__windowbarVertical2
+    4300020: pasted__windowbarVertical3
+    4300022: pasted__windowbarVertical4
+    4300024: pasted__windowbarVertical5
+    4300026: pasted__windowbarRight
+    4300028: pasted__pasted__windowbarRight
+    4300030: rope
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

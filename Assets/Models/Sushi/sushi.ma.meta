@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 119ab001f9d69ff4680c89af1b4548fd
+timeCreated: 1530731704
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: group
+    100002: group1
+    100004: group2
+    100006: group3
+    100008: group4
+    100010: pasted__group
+    100012: pasted__pasted__sushi
+    100014: pasted__pasted__sushi4
+    100016: pasted__riceball1
+    100018: pasted__salmon
+    100020: pasted__sushi
+    100022: pasted__sushi 1
+    100024: pasted__sushi 2
+    100026: pasted__sushi 3
+    100028: pasted__sushi4
+    100030: pasted__sushi4 1
+    100032: pasted__sushi4 2
+    100034: plate
+    100036: plateLeg
+    100038: plateLeg1
+    100040: riceball1
+    100042: salmon
+    100044: sushi
+    100046: //RootNode
+    100048: sushi4
+    400000: group
+    400002: group1
+    400004: group2
+    400006: group3
+    400008: group4
+    400010: pasted__group
+    400012: pasted__pasted__sushi
+    400014: pasted__pasted__sushi4
+    400016: pasted__riceball1
+    400018: pasted__salmon
+    400020: pasted__sushi
+    400022: pasted__sushi 1
+    400024: pasted__sushi 2
+    400026: pasted__sushi 3
+    400028: pasted__sushi4
+    400030: pasted__sushi4 1
+    400032: pasted__sushi4 2
+    400034: plate
+    400036: plateLeg
+    400038: plateLeg1
+    400040: riceball1
+    400042: salmon
+    400044: //RootNode
+    400046: sushi
+    400048: sushi4
+    2100000: lambert4
+    2300000: pasted__pasted__sushi4
+    2300002: pasted__riceball1
+    2300004: pasted__salmon
+    2300006: pasted__sushi4
+    2300008: pasted__sushi4 1
+    2300010: pasted__sushi4 2
+    2300012: plate
+    2300014: plateLeg
+    2300016: plateLeg1
+    2300018: riceball1
+    2300020: salmon
+    2300022: sushi4
+    3300000: pasted__pasted__sushi4
+    3300002: pasted__riceball1
+    3300004: pasted__salmon
+    3300006: pasted__sushi4
+    3300008: pasted__sushi4 1
+    3300010: pasted__sushi4 2
+    3300012: plate
+    3300014: plateLeg
+    3300016: plateLeg1
+    3300018: riceball1
+    3300020: salmon
+    3300022: sushi4
+    4300000: sushi4
+    4300002: plateLeg1
+    4300004: plateLeg
+    4300006: plate
+    4300008: salmon
+    4300010: riceball1
+    4300012: pasted__sushi4
+    4300014: pasted__pasted__sushi4
+    4300016: pasted__sushi4
+    4300018: pasted__sushi4
+    4300020: pasted__salmon
+    4300022: pasted__riceball1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
